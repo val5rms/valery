@@ -1,0 +1,55 @@
+{
+margin:0;
+padding:0;
+}
+
+body
+{
+background: #3026F8;
+}
+
+header
+{
+overflow:hidden;
+margin-bottom: 20px;
+background:#1E38E5;
+width:100%;
+
+}
+header .titulo
+{
+color:white;
+font-size:70px;
+line-height:100px;
+}
+header
+{
+overflow:hidden;
+margin-bottom: 20px;
+background:#F1151F;
+width:100%;
+}
+header nav a
+
+{
+color:white;
+padding:10px 30px;
+line-height:normal;
+display:inline-block;
+text-decoration:none;
+font-size:25px;
+border-radius:5px;
+}
+header nav a:hover
+{
+background-color: #3026F8;
+-webkit-transition:all 500ms ;
+-o-transition:all 500ms ;
+}
+.todo
+{
+width:90%;
+max-width:1000px;
+margin:auto;
+overflow:hidden;
+color:white;
